@@ -1,0 +1,1 @@
+The server side of a web application is referred to as the backend in the context of web development. Python backend development entails using Python to create web applications' server-side code. Python includes web frameworks like Flask, Django, Pyramid, and Bottle.
